@@ -25,3 +25,7 @@ This was developed using the provided boilerplate code as a starting point. The 
 
 * GPIO Interrupt – Triggers pressure publishing when the button is pressed. [[8]](https://github.com/Lance-Cruz/EmbeddedSystems-Project/blob/main/main.c#L515)
 * Timer Interrupt – Periodically reads and publishes temperature and humidity. [[9]](https://github.com/Lance-Cruz/EmbeddedSystems-Project/blob/main/main.c#L572)
+
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/Lance-Cruz/EmbeddedSystems-Project/blob/main/Architecture%20Diagram.png)
